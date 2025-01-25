@@ -11,8 +11,7 @@ Healthcare professionals often have to deal with handwritten notes and records, 
 - **Handwriting to EHR Conversion:** Uses Optical Character Recognition to digitize handwritten notes.
 - **Natural Language Processing:** Extracts relevant info and structures it into EHRs.
 - **Customizable Templates:** Allows doctors to format records into templates for consistent organization.
-- **HIPAA-Compliant Security:** Implements AES-256 encryption and JWT API authentication.
-- **Scalable Architecture:** Built with microservices to ensure reliability and scalability.
+- **HIPAA Compliance:** Implements AES-256 encryption and JWT API authentication.
 
 ## Tech Stack
 ### Frontend
