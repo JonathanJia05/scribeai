@@ -5,7 +5,7 @@
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791)
 
-Healthcare professionals often have to deal with handwritten notes and records, which can be time-consuming and error-prone. ScribeAI simplifies the transition to electronic health records (EHRs) by turning handwritten healthcare notes into organized digital records. It allows healthcare professionals to digitize handwritten notes, customize them into templates, and seamlessly organize patient data for personalized management.
+Healthcare professionals often have to deal with handwritten notes and records, which can be time consuming and error prone. ScribeAI simplifies the transition to electronic health records (EHRs) by turning handwritten healthcare notes into organized digital records. It allows healthcare professionals to digitize handwritten notes, customize them into templates, and seamlessly organize patient data for personalized management.
 
 ## Features
 - **Handwriting to EHR Conversion:** Uses Optical Character Recognition to digitize handwritten notes.
